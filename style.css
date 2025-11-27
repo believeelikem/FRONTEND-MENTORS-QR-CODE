@@ -55,4 +55,6 @@ p{
     background-color: hsl(0, 0%, 100%);
     padding: var(--card-padding);
     border-radius: var(--border-r);
+     box-shadow: 0 2px 50px rgba(0,0,0,0.1);
+
 }
